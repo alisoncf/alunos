@@ -1,0 +1,3 @@
+model\Aluno.class
+services\AlunoService.class
+api\AlunoAPI.class
